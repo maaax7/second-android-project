@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Activity One</string>
+    <string name="app_name2">Activity Two</string>
+
+    <string name="txtAct1">Olá! Eu sou a Activity 1!!</string>
+    <string name="btnAct1">Chamar Activity 2</string>
+
+    <string name="txtAct2">Aqui é Activity 2!!!</string>
+    <string name="btnAct2">Fechar e Retornar</string>
+</resources>
